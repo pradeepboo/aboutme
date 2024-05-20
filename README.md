@@ -1,5 +1,4 @@
 # aboutme
-
 # Hi there, I'm Pradeep Dharmalingam! 👋
 
 I'm a passionate cybersecurity professional based in Bengaluru, India, dedicated to fortifying digital landscapes against emerging threats. Welcome to my GitHub profile!
@@ -17,19 +16,47 @@ I'm a passionate cybersecurity professional based in Bengaluru, India, dedicated
 - Network Security
 - Web Application Security
 - Incident Response
-- Scripting (Python, Bash)
-- Linux & Windows Server Administration
+- SIEM Implementation and Log Analysis
+- Network Traffic Monitoring and Attack Detection
+- Incident Response Planning and Execution
 
-## 💼 Work Experience
+## 🛠️ Tools & Technologies
 
-- **Security Analyst & Penetration Tester** at Globals ITeS Pvt Ltd, Bengaluru
-- **System Administrator** at NIIT Ltd, Bengaluru
-- **Penetration Tester** at TCS and IBM
+### Tools
+- Wireshark
+- NMAP
+- Burpsuite
+- Postman
+- Kali Linux
+- Metasploit
+- Suricata
+
+### Endpoint Security
+- Snort
+- Microsoft Defender Endpoint
+- Crowdstrike
+
+### SIEM
+- Splunk
+- IBM QRadar
+- Wazuh
+
+## 📜 Certifications
+
+- Google Certified Cybersecurity Professional
+- Microsoft Sentinel Ninja
+- CEH v12 by Simplilearn
+
+## 🚀 Projects
+
+- Conducted Network VAPT for 5 organizations
+- Web VAPT done for NCIIPC
+- Implemented Endpoint security solutions
 
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/pradeep-dharmalingam](https://www.linkedin.com/in/pradeep-dharmalingam)
-- Twitter: [twitter.com/pradeepd](https://twitter.com/pradeepd)
+- Twitter: [twitter.com/pradeepdharm](https://twitter.com/pradeepdharm)
 - Website: [pradeepdharmalingam](https://sites.google.com/view/pradeep-dharmalingam)
 
 ## 🚀 Fun Fact
@@ -37,4 +64,3 @@ I'm a passionate cybersecurity professional based in Bengaluru, India, dedicated
 I love to explore new hiking trails in my free time and unwind with a good book on cybersecurity!
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to cybersecurity and technology!
-
