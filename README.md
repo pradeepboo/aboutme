@@ -31,6 +31,11 @@ I'm a passionate cybersecurity professional based in Bengaluru, India, dedicated
 - Metasploit
 - Suricata
 
+### Automated Testing
+- Tenable Nessus
+- Open VAS
+- Nikto
+
 ### Endpoint Security
 - Snort
 - Microsoft Defender Endpoint
